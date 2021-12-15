@@ -1,4 +1,4 @@
-![Hi, I`m Oleksandr, Backend Developer](https://user-images.githubusercontent.com/69913419/146098255-17f65e76-fda8-41f0-b569-1ffe683e410a.mp4)
+![Hi, I`m Oleksandr, Backend Developer](https://user-images.githubusercontent.com/69913419/146099438-31fd88bc-eb95-4719-8ba3-6ea02304e305.gif)
 
 **I am a student who learns Python and web programming.**
 
